@@ -6,42 +6,42 @@ const desserts = [
   {
     name: 'Waffle with Berries',
     price: 6.5,
-    image: 'src/images/image-waffle-desktop.jpg'
+    image: '/images/image-waffle-desktop.jpg'
   },
   {
     name: 'Vanilla Bean Crème Brûlée',
     price: 7.0,
-    image: 'src/images/image-creme-brulee-desktop.jpg'
+    image: '/images/image-creme-brulee-desktop.jpg'
   },
   {
     name: 'Macaron Mix of Five',
     price: 8.0,
-    image: 'src/images/image-macaron-desktop.jpg'
+    image: '/images/image-macaron-desktop.jpg'
   },
   {
     name: 'Panna Cotta',
     price: 8.0,
-    image: 'src/images/image-panna-cotta-desktop.jpg'
+    image: '/images/image-panna-cotta-desktop.jpg'
   },
   {
     name: 'Tiramisu',
     price: 8.0,
-    image: 'src/images/image-tiramisu-desktop.jpg'
+    image: '/images/image-tiramisu-desktop.jpg'
   },
   {
     name: 'Brownie Delight',
     price: 8.0,
-    image: 'src/images/image-brownie-desktop.jpg'
+    image: '/images/image-brownie-desktop.jpg'
   },
   {
     name: 'Classic Cake Slice',
     price: 8.0,
-    image: 'src/images/image-cake-desktop.jpg'
+    image: '/images/image-cake-desktop.jpg'
   },
   {
     name: 'Baklava Bites',
     price: 8.0,
-    image: 'src/images/image-baklava-desktop.jpg'
+    image: '/images/image-baklava-desktop.jpg'
   }
 ];
 
