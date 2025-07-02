@@ -1,4 +1,4 @@
-import { addItemToCart } from '../cart';
+import { addItemToCart } from '../cart.js';
 
 
 
