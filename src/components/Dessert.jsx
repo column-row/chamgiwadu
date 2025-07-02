@@ -1,5 +1,7 @@
 import React from 'react';
 import { addItemToCart } from '../cart';
+import { getCart } from '../cart';
+
 
 const desserts = [
   {
